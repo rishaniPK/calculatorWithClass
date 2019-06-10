@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace calculatorWithClass
 {
-    class calculator
+    public class calculator
     {
         int num1, num2, result; // decline the variables
         public string add( string firstnumber, string secondnumber) // Function to perfrom addition of two numbers
